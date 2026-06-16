@@ -25,9 +25,15 @@ That is the whole loop. Every later launch is instant.
 - **Export** SoundWaves, SoundCues, or a single Random cue from many takes.
 - **Standalone** launch from the Start Menu shortcut, no editor needed.
 
-| Voice Clone | Voice Design | Output |
+| Custom Voice | Voice Clone | Voice Design |
 |---|---|---|
-| <img src="assets/screenshot-voice-clone.png" width="280"> | <img src="assets/screenshot-voice-design.png" width="280"> | <img src="assets/screenshot-output.png" width="280"> |
+| <img src="assets/screenshot-custom-voice.png" width="280"> | <img src="assets/screenshot-voice-clone.png" width="280"> | <img src="assets/screenshot-voice-design.png" width="280"> |
+
+## Output
+
+Every generation lands in the Output panel, newest first. Play takes, adjust volume, auto balance, like keepers, then right click to export them into Unreal.
+
+<p align="center"><img src="assets/screenshot-output.png" width="900"></p>
 
 ## Good to Know
 
