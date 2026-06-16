@@ -10,13 +10,12 @@
 
 1. Install from Fab (or drop the `DYLOTTS` folder into your project's `Plugins` folder) and enable it.
 
-   <img width="938" height="231" alt="DYLO TTS in the Plugins browser" src="https://github.com/user-attachments/assets/fd92d29e-264f-495a-bc4b-e2d83b70aee6" />
+   <p align="center"><img width="600" alt="DYLO TTS in the Plugins browser" src="https://github.com/user-attachments/assets/fd92d29e-264f-495a-bc4b-e2d83b70aee6" /></p>
 
 2. Click the **DYLO TTS** button in the toolbar. The first click downloads the studio (about 9.5 GB, one time), then opens it in your browser.
 
-<img width="644" height="276" alt="GIF 6-16-2026 3-45-54 PM" src="https://github.com/user-attachments/assets/76fa4205-e2f4-404c-a89a-6fc5b9f10756" />
+   <p align="center"><img width="600" alt="DYLO TTS first launch" src="https://github.com/user-attachments/assets/76fa4205-e2f4-404c-a89a-6fc5b9f10756" /></p>
 
-   
 3. Pick a voice, type a line, press **Generate**.
 4. Right click the clip and choose **Create SoundWaves** to import it into `Content/DYLOTTS/`.
 
