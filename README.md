@@ -9,9 +9,11 @@
 ## Quick Start
 
 1. Install from Fab (or drop the `DYLOTTS` folder into your project's `Plugins` folder) and enable it.
-2. Click the **DYLO TTS** button in the toolbar. The first click downloads the studio (about 9.5 GB, one time), then opens it in your browser.
-3. Pick a voice, type a line, press **Generate**.
-4. Right click the clip and choose **Create SoundWaves** to import it into `Content/DYLOTTS/`.
+   <img width="938" height="231" alt="image" src="https://github.com/user-attachments/assets/fd92d29e-264f-495a-bc4b-e2d83b70aee6" />
+
+3. Click the **DYLO TTS** button in the toolbar. The first click downloads the studio (about 9.5 GB, one time), then opens it in your browser.
+4. Pick a voice, type a line, press **Generate**.
+5. Right click the clip and choose **Create SoundWaves** to import it into `Content/DYLOTTS/`.
 
 That is the whole loop. Every later launch is instant.
 
