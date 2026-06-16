@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/dylotts_logo.png" width="180"></p>
+<p align="center"><img src="assets/dylotts_logo.png" width="600"></p>
 
 <h1 align="center">DYLO TTS</h1>
 
