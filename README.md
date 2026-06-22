@@ -23,11 +23,11 @@ That is the whole loop. Every later launch is instant.
 
 ## What You Can Do
 
-- **Custom Voice** generate with built in or saved voices, plus emotion and delivery modifiers.
-- **Voice Clone** clone a voice from a 10 to 30 second sample.
-- **Voice Design** describe a voice in plain text and generate it.
-- **Export** SoundWaves, SoundCues, or a single Random cue from many takes.
-- **Standalone** launch from the Start Menu shortcut, no editor needed.
+- **Custom Voice** built in or saved voices, with emotion modifiers.
+- **Voice Clone** clone from a 10 to 30 second sample.
+- **Voice Design** describe a voice, generate it.
+- **Export** SoundWaves, SoundCues, or a Random cue.
+- **Standalone** launch from the Start Menu shortcut.
 
 | Custom Voice | Voice Clone | Voice Design |
 |---|---|---|
@@ -41,10 +41,10 @@ Every generation lands in the Output panel, newest first. Play takes, adjust vol
 
 ## Good to Know
 
-- **Requirements:** Windows 10/11, UE 5.0 / 5.5 / 5.6 / 5.7, about 20 GB free, NVIDIA GPU recommended.
-- **Your files:** voices and generations live in `Documents\DYLO TTS\`.
-- **Offline:** after the first download, it works with no internet.
-- **Nothing froze:** the first launch and first generation are the slow ones (download + model load). After that it is fast.
+- **Requirements:** Windows 10/11, UE 5.0 to 5.7, NVIDIA GPU, 20 GB free.
+- **Your files:** voices and generations in `Documents\DYLO TTS\`.
+- **Offline:** works with no internet after first download.
+- **Nothing froze:** only first launch and first generation are slow.
 
 ## Support
 
