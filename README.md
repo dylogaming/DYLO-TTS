@@ -12,12 +12,10 @@
 
    <p align="center"><img width="600" alt="DYLO TTS in the Plugins browser" src="https://github.com/user-attachments/assets/fd92d29e-264f-495a-bc4b-e2d83b70aee6" /></p>
 
-2. Download and run **[DYLO TTS Studio Setup](https://mega.nz/file/HowDEQIZ#YlGOkjRdDqzqh_arG8IrwP1BLRTxYQXk8N6wQhzGiUM)** (about 9.5 GB, one time). It installs the studio on your machine and adds a Start Menu shortcut. Everything runs locally on your GPU.
+2. Click the **DYLO TTS** button in the toolbar. The first launch downloads the studio runtime (about 9.5 GB, one time) automatically, then opens in your browser. Everything runs locally on your GPU.
 
-3. Click the **DYLO TTS** button in the toolbar (or launch DYLO TTS from your Start Menu). The studio opens in your browser.
-
-4. Pick a voice, type a line, press **Generate**.
-5. Right click the clip and choose **Create SoundWaves** to import it into `Content/DYLOTTS/`.
+3. Pick a voice, type a line, press **Generate**.
+4. Right click the clip and choose **Create SoundWaves** to import it into `Content/DYLOTTS/`.
 
 That is the whole loop. Every later launch is instant.
 
